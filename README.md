@@ -1,6 +1,6 @@
 # STL-DiscoUltimate
 
-This repository gathers all STLs used to build a DiscoUltimate.
+This repository gathers all STLs used to build a DiscoUltimate v2 TMC.
 
 All the stl files stored in this repository are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
